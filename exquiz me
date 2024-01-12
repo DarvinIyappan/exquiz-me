@@ -1,0 +1,10 @@
+print("Program:Team8_exquiz me.py")
+print("Course:PSP0101 Problem Solving and Program Design")
+print("Class:TL4L")
+print("2024 Trimester 1")
+print("Names:1.Darvin 2.Vika 3.Prashanty 4.Karthigahyini")
+print("IDs:1.1221108992 2.")
+print("Emails:1221108992@student.mmu.edu.my")
+print("phones:1.0172850967")
+
+print("*Welcome to exquiz me game*")
